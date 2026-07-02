@@ -1,0 +1,8 @@
+sit
+move
+huddle
+stand
+suspension
+lie
+groom
+background
